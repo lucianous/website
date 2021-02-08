@@ -1,0 +1,51 @@
+/* CSS Document */
+
+body {
+	background-color: #FFF4E4;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+    color: #FFF4E4;
+	font-size:medium;
+	font-family:monospace;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar ul {
+	list-style-type: none; 
+	margin: 0;
+	padding-top: 2.5%;
+	padding-bottom: 0.5%;
+	padding-right: 2%;
+	overflow: hidden;
+	border: none;
+	background-color: #1A0708;
+	border-radius: 0px 0px 25px 25px; /*Apenas embaixo*/
+}
+
+.navbar ul h2 {
+	float: left;
+}
+
+.navbar ul li {
+	float:right;
+}
+
+.navbar ul li a {
+	display: block;
+	color: #FFF4E4;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.navbar ul li a:hover:not(.active) {
+	color: #F7E8A4; 
+}
+
+.navbar ul li a.active {
+	color: #FFED28;
+}
