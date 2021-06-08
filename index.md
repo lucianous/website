@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to Luciano's website
 
-You can use the [editor on GitHub](https://github.com/lucianous/website/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Here you can find some links usefull for him and his personal infos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Instagram](www.instagram.com/lucianous.png)
+- [Whatsapp](https://api.whatsapp.com/send?phone=5592993518009)
+- E-mail = luci*****************@gmail.com
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucianous/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Parallax
+- [Website](www.parallax.art.br)
+- [Instagram](www.instagram.com/parallax.arts)
+- [Behance](www.behance.net/parallaxart)
+- [Whatsapp Business](https://api.whatsapp.com/send?phone=5592991935886)
+- E-mail = visuaisparallax@gmail.com
